@@ -7,7 +7,7 @@ public class Commission_Percentage {
 		Scanner sc =new Scanner (System.in);
 		float amount, commission_percent;
 		
-		System.out.println("Enter the Amount in Rupees : ");
+		System.out.println("Enter the Amount in Here Rupees : ");
 		amount = sc.nextFloat();
 		
 		System.out.println("Enter the Commission value in percent (Eg. % = 20) : ");
