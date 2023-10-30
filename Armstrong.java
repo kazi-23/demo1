@@ -33,7 +33,7 @@ public class Armstrong
 	{     
 		int num;   
 		Scanner sc= new Scanner(System.in);  
-		System.out.print("Enter the max: ");    
+		System.out.print("Enter Here the max: ");    
 		
 		num=sc.nextInt();  
 		System.out.println("Armstrong Number up to "+ num + " are: ");  
